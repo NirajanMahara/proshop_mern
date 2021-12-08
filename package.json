@@ -1,0 +1,14 @@
+{
+  "name": "proshop_mern",
+  "version": "1.0.0",
+  "description": "MERN ecommerce web app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server"
+  },
+  "author": "Nirajan Mahara",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
